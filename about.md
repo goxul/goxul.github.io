@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a computer science undergrad, currently studying in Mumbai. I like to work with data.
 
 ### More Information
 
-I'm a computer science undergrad, currently studying in Mumbai. Interested in data and related stuff.
+In my free time, I am a volunteer at Make A Difference foundation. Love me some poetry and stand-up comedy.
 
 ### Contact me
 
