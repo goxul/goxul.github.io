@@ -1,3 +1,6 @@
-#First Post 
+---
+layout: post
+title: First post!
+---
 
 Test post to see the working of the blog.
