@@ -6,7 +6,7 @@
 name: Gokul's Musings
 
 # Short bio or description (displayed in the header)
-description: Computer sceince Undergrad
+description: Computer science undergrad
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -19,7 +19,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: gokulnath136@gmail.com
-  facebook: www.facebook.com/goxul
+  facebook: goxul
   flickr:
   github: goxul
   instagram:
