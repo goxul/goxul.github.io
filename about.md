@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a computer science undergrad, currently studying in Mumbai. Interested in data and related stuff.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[gokulnath136@gmail.com](mailto:email@domain.com)
