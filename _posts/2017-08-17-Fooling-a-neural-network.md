@@ -16,13 +16,11 @@ However, researchers have found out that the model can be easily made to misclas
 
 ### How do they work?
 
-Not to go into the detail of CNNs work, it can be said that they work by finding features in the images using a series of processes such as convolutions, pooling etc.
-
-However, these features are ultimately learnt from the pixels of the image and we might think that changing a few pixels wouldn't lead to misclassification. 
+Not to go into the detail of CNNs work, it can be said that they work by finding features in the images using a series of processes such as convolutions, pooling etc. These features are ultimately learnt from the pixels of the image and we might think that changing a few pixels wouldn't lead to misclassification. 
 
 However, researchers have found out that these input pixels can be manipulated into fooling our model into misclassifying the image.  In a paper published in 2013 called [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199), researches found out that "we can cause the network to misclassify an image by applying a certain imperceptible perturbation" i.e if we know what pixels to change and how much to change them, we can force the neural network to misclassify our image. 
 
-From Ian Goodfellow's [cleverhans](www.cleverhans.io) blog,
+From Ian Goodfellow's cleverhans blog,
 
 ![alt](http://cleverhans.io/assets/adversarial-example.png)
 
