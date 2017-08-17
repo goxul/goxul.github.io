@@ -7,6 +7,10 @@ title:  Medical Text Classification using CNN
 
 ## Tl;dr : This paper presents usage of CNNs to classify clinical text at a sentence level. This approach outperforms traditional NLP methods (Sentence Embeddings, Mean Word Embeddings and Word Embedding with BOW) by at least 15 %
 
+### Link to paper:
+
+[Medical Text Classification using CNN](https://arxiv.org/abs/1704.06841)
+
 ### Summary:
 
 The authors claim the purpose of writing this paper is to "apply machine learning approaches to build models that allow an automatically generated context-based and rich representation of health related information”. Their justification of using CNNs is their ability to learn complex feature representations. 
