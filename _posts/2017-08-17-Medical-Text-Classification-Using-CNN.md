@@ -5,7 +5,7 @@ title:  Medical Text Classification using CNN
 
 ---
 
-## Tl;dr : This paper presents usage of CNNs to classify clinical text at a sentence level. This approach outperforms traditional NLP methods (Sentence Embeddings, Mean Word Embeddings and Word Embedding with BOW) by at least 15 %
+## Tl;dr : This paper presents usage of CNNs to classify clinical text at a sentence level. This approach outperforms traditional NLP methods (Sentence Embeddings, Mean Word Embeddings and Word Embedding with BOW) by at least 15 %.
 
 ### Link to paper:
 
