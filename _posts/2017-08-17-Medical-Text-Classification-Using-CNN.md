@@ -5,7 +5,7 @@ title:  Medical Text Classification using CNN
 
 ---
 
-__Tl;dr : This paper presents usage of CNNs to classify clinical text at a sentence level. This approach outperforms traditional NLP methods (Sentence Embeddings, Mean Word Embeddings and Word Embedding with BOW) by at least15 %.__
+## Tl;dr : This paper presents usage of CNNs to classify clinical text at a sentence level. This approach outperforms traditional NLP methods (Sentence Embeddings, Mean Word Embeddings and Word Embedding with BOW) by at least 15 %
 
 ### Summary:
 
@@ -25,20 +25,31 @@ Each sentence is converted to a word level matrix which is extracted from the Wo
 
 The architecture of the CNN is as follows: (the hyper parameters were chosen after a grid search)
 
+![alt](https://github.com/goxul/goxul.github.io/blob/master/images/Screen%20Shot%202017-08-17%20at%203.42.09%20PM.png)
 
+From the paper,
+
+>Our best performing CNN model consisted of a configuration of two sets
+of two convolutional layers with each pair followed by a max pooling layer. In this
+model, we used 256 convolutional filters with a filter size of 5 across all convolutional
+layers. After the second max pooling function we apply a dropout function to help
+preventing overfitting. In our model, we use a dropout rate of .5. We then append a
+fully connected layer with a length of 128 followed by a second dropout function. This
+is followed by a dense layer with a size of 26 to represent the number of classification
+classes with a Softmax function determining the output.
 
 
 ### Evaluation
 
 The results of the CNN based approach was compared with the following models -
 
-* Sentence Embeddings (_Log R + _Doc2Vec_)
+* Sentence Embeddings (_LogR_ + _Doc2Vec_)
 * Mean Word Embeddings (_ZeroMean/ElimMean + Word2Vec_)
 * Word Embeddings with BOW features (_BOW + LogR_)
 
 The results are as follows:
 
-
+![alt](https://github.com/goxul/goxul.github.io/blob/master/images/Screen%20Shot%202017-08-17%20at%203.43.45%20PM.png)
 
 ### Summary:
 
