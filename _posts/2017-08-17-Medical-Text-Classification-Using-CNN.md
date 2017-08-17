@@ -29,7 +29,7 @@ Each sentence is converted to a word level matrix which is extracted from the Wo
 
 The architecture of the CNN is as follows: (the hyper parameters were chosen after a grid search)
 
-![alt](goxul.github.io/images/Screen Shot 2017-08-17 at 3.42.09 PM.png)
+![alt](https://www.goxul.github.io/images/Screen Shot 2017-08-17 at 3.42.09 PM.png)
 
 From the paper,
 
@@ -53,7 +53,7 @@ The results of the CNN based approach was compared with the following models -
 
 The results are as follows:
 
-![alt](goxul.github.io/images/Screen Shot 2017-08-17 at 3.43.45 PM.png)
+![alt](https://www.goxul.github.io/images/Screen Shot 2017-08-17 at 3.43.45 PM.png)
 
 ### Summary:
 
