@@ -5,7 +5,7 @@ title:  What is Docker?
 
 ---
 
-### An introduction to Docker
+### An introduction to containers and Docker
 ___
 
 Digging in directly - straight from the docs:
