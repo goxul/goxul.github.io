@@ -76,7 +76,7 @@ While containers aren't as flexible as VMs, they still attempt to provide strong
 For example, they run on top of a host operating system, so there is only one instance of an operating system running on the machine. 
 The tradeoff there is that you can't run a specific operating system for each of your applications. 
 
-<img align = centre src = "https://www.sdxcentral.com/wp-content/uploads/2016/01/containers-versus-virtual-machines-docker-inc-rightscale.jpg">
+![alt](https://www.sdxcentral.com/wp-content/uploads/2016/01/containers-versus-virtual-machines-docker-inc-rightscale.jpg)
 
 ### So, what is Docker?
 ___
