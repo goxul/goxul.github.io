@@ -86,10 +86,8 @@ A simple architecture from the paper for MNIST classification is shown as follow
 ![Mnist](http://i.imgur.com/WtHw9io.png)
 
 Let us look at each of these layers in detail:
-___
 
 #### Convolutional Layer:
-___
 
 The primary purpose of convolution in the context of ConvNets is to extract features from an image.
 Convolution preserves the spatial relationship between pixels by learning image features using small squares of input data.
