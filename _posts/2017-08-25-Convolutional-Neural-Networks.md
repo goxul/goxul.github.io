@@ -17,7 +17,7 @@ neural network and thus making the netwok more suitable for image specific tasks
 
 We may ask why aren't ANNs used for image classification? Why do we need another special class of ANNs?
 
-This is answered in the paper as:
+Quoting from [1],
 
 >One of the largest limitations of traditional forms of ANN is that they tend to
 struggle with the computational complexity required to compute image data.
@@ -48,14 +48,14 @@ There are two reasons why this isn't the best solution:
  the accuracy of our model.
  ___
  
- ### CNN architecture:
  
+ ### CNN architecture:
  ___
  
  The CNN architecture is set up in a way that it expects the input to be in the form of images. 
  This focuses the architecture to be set up in way to best suit the need for dealing with the specific type of data.
  
- Another key difference between ANNs and CNNs is explained as follows:
+ Another key difference between ANNs and CNNs is explained as follows in [1]:
 
 >One of the key differences is that the neurons that the layers within the CNN
 are comprised of neurons organised into three dimensions, the spatial dimensionality
