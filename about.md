@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a computer science undergrad, currently studying in Mumbai. I like to work with data.
+I'm a computer science undergrad, currently studying in Mumbai.
 
 ### More Information
 
