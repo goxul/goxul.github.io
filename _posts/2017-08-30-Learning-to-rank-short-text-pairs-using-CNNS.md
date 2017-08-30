@@ -9,10 +9,12 @@ layout: post
 
 
 ## Link to paper: 
+___
 
 [Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks](https://pdfs.semanticscholar.org/73d8/26d4c2363701b88e3e234fe3b8756c0f9671.pdf)
 
 ## Introduction:
+___
 
 Traditional reranking approaches require complex lexical, syntactic and semantic features.
 Also, the choice of representations and features is a completelyempirical process, driven by the intuition, experience and
@@ -34,7 +36,8 @@ NLP tasks.
 
 ___
 
-### Architecture of the model:
+## Architecture of the model:
+___
 
 From the paper,
 
@@ -151,6 +154,33 @@ generates a distribution over the class labels.
 The model is trained to minimise the cross-entropy loss function and
  \\( l\_{2} \\) norm regularization is done to mitigate overfitting. Dropout 
  is also used to prevent overfitting.
+ ___
+ 
+ ### Results and conclusion:
+ ___
+ 
+ For a more detailed look into the results, reading the paper is suggested.
+ 
+> Our experimental findings show that our deep learning model:
+>*	(i) greatly improves on the previous state-of-the-art systems and a
+recent deep learning approach on answer sentence selection
+task showing a 3% absolute improvement in MAP and MRR;
+
+>*	(ii) our system is able to improve even the best system runs from
+TREC Microblog 2012 challenge; 
+
+>* (iii) is comparable to the syntactic
+reranker in other models, while our system requires no external parsers
+or resources.
+
+In conclusion, a novel deep learning architecture for
+reranking short texts is suggested. It has the benefits of requiring no manual
+feature engineering or external resources, which may be expensive
+or not available. The model with the same architecture can be successfully
+applied to other domains and tasks.
+___
+
+
  
  
 
