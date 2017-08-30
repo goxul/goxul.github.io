@@ -131,7 +131,7 @@ softmax layer.
 From the paper,
 
 >The output of our sentence models are distributional
-representations of a query \\( x\_{q} \\) and a document \\( x\_{d} \). These are then
+representations of a query \\( x\_{q} \\) and a document \\( x\_{d} \\). These are then
 matched using a similarity matrix M. This produces
 a single score \\( x\_{sim} \\) capturing various aspects of similarity
 (syntactic and semantic) between the input queries and documents.
