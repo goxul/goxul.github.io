@@ -18,8 +18,7 @@ ___
 
 Traditional reranking approaches require complex lexical, syntactic and semantic features.
 Also, the choice of representations and features is a completelyempirical process, driven by the intuition, experience and
-domain expertise. It is also shown to be computationally expensive and requires a number of tools. So, the authors have tried
-to use deep learning methods to perform the task. 
+domain expertise. It is also shown to be computationally expensive and requires a number of tools. So, the authors have tried to use deep learning methods to perform the task. 
 
 From the paper,
 
