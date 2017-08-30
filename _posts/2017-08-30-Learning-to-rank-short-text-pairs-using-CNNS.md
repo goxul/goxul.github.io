@@ -5,7 +5,7 @@ layout: post
 
 ---
 
-### Tl;dr: This paper presents a CNN architecture for reranking pairs of short texts - in particular, the task of reranking short text pairs where elements of the pair are sentences.
+### Tl;dr: This paper presents a CNN architecture for reranking pairs of short texts - in particular, the task of reranking short text pairs where elements of the pair are sentences stuff.
 
 
 ## Link to paper: 
@@ -49,7 +49,7 @@ learn the semantic similarity between them.
 Similar to the model published [by Y.Kim](http://www.aclweb.org/anthology/D14-1181), 
 the input to the sentence model is a sentence treated as a sequence of words.
 
-For each sentence, a sentence matrix is built where each column \( i \) represents a word embedding \( w\_{i} \) at the corresponding position \( i \) in a sentence.
+For each sentence, a sentence matrix is built where each column \\( i \\) represents a word embedding \\( w\_{i} \\) at the corresponding position \\( i \\) in a sentence.
 
 From the paper,
 
@@ -71,7 +71,7 @@ and pooling operations.
 The convolution filter is of the same dimensionality as the input sentence
 matrix. As shown in Fig. 1, it slides along the column dimension
 of S producing a vector c in output. Each component
-\( c\_{i} \) is the result of computing an element-wise product between a
+\\( c\_{i} \\) is the result of computing an element-wise product between a
 column slice of S and the filter matrix F, which is then flattened
 and summed producing a single value.
 
@@ -79,7 +79,7 @@ and summed producing a single value.
 
 To allow the model to learn non-linear boundaries, each
 convolutional layer is typically followed by a non-linear activation
-function \( \alpha() \) applied element-wise to the output of the preceding
+function \\( \alpha() \\) applied element-wise to the output of the preceding
 layer. Common choices include hyperbolic tangent, ReLU or sigmoid.
 
 *Pooling layer:*
@@ -106,7 +106,7 @@ are joined in a single representation.
 
 *Matching query and documents*:
 
-The similarity between two vectors \( x\_{q} \) and \( x\_{d} \) is given by: 
+The similarity between two vectors \\( x\_{q} \\) and \\( x\_{d} \\) is given by: 
 
   $$ sim(x_{q}, x_{d}) = x_{q}^TMx_{d} $$ 
 
@@ -118,12 +118,12 @@ The hidden layer computes the transfomation:
   
   $$ \alpha(w_{h}.x + b) $$
   
-  where \(w\_{h} \) is the weight vector and \( \alpha \) is the non-linearity.
+  where \\(w\_{h} \\) is the weight vector and \\( \alpha \\) is the non-linearity.
   
 *Softmax*
   
 The output of the penultimate convolutional and pooling layers
-is flattened to a dense vector \( x \), which is passed to a fully connected
+is flattened to a dense vector \\( x \\), which is passed to a fully connected
 softmax layer.
 
 *Information flow*:
@@ -131,11 +131,11 @@ softmax layer.
 From the paper,
 
 >The output of our sentence models are distributional
-representations of a query \(x_{q} \) and a document \(x_{d} \). These are then
+representations of a query \\( x\_{q} \\) and a document \\( x\_{d} \). These are then
 matched using a similarity matrix M. This produces
-a single score \( x\_{sim} \) capturing various aspects of similarity
+a single score \\( x\_{sim} \\) capturing various aspects of similarity
 (syntactic and semantic) between the input queries and documents.
-Note that it is also straight-forward to add additional features \( x\_{feat} \)
+Note that it is also straight-forward to add additional features \\( x\_{feat} \\)
 to the model.
 
 >The join layer concatenates all intermediate vectors, the similarity
@@ -148,7 +148,7 @@ layer is further fed to the softmax classification layer, which
 generates a distribution over the class labels.
 
 The model is trained to minimise the cross-entropy loss function and
- \( l\_{2} \) norm regularization is done to mitigate overfitting. Dropout 
+ \\( l\_{2} \\) norm regularization is done to mitigate overfitting. Dropout 
  is also used to prevent overfitting.
  
  
