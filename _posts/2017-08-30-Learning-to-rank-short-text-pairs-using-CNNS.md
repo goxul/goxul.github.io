@@ -5,7 +5,7 @@ layout: post
 
 ---
 
-### Tl;dr: This paper presents a CNN architecture for reranking pairs of short texts - in particular, the task of reranking short text pairs where elements of the pair are sentences stuff.
+### Tl;dr: This paper presents a CNN architecture for reranking pairs of short texts - in particular, the task of reranking short text pairs where elements of the pair are sentences.
 
 
 ## Link to paper: 
