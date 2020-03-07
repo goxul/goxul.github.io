@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm a computer science undergrad, currently studying in Mumbai.
+I'm a computer science undergrad and I graduated from DJ Sanghvi College of Engineering in 2019. 
 
 ### More Information
 
-In my free time, I am a volunteer at Make A Difference foundation. Love me some poetry and stand-up comedy.
+Other than academics, I am interested in music, poetry and cricket. 
 
 ### Contact me
 
