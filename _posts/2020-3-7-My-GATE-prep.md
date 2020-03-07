@@ -10,7 +10,9 @@ If this is too long to read, here's the summary:
 2. I used standard textbooks and standard resources for almost all subjects.
 3. I realised that analysis of the mistakes I made in tests is more important than the marks that I scored. 
 
-I write this because it was an excellent post like this by Parimal Paritosh [(you can and should read it here:](https://qr.ae/pNtBso) which gave me enough courage to drop a year and attempt GATE again, and I'll always be grateful for him. If this blog helps even one person in a similar form, I'd consider the efforts to be worth it.
+I write this because it was an excellent post like this by Parimal Paritosh [(you can and should read it here:](https://qr.ae/pNtBso) which gave me enough courage to drop a year and attempt GATE again and for that, I'll always be grateful for him. 
+
+If this blog helps even one person in a similar form, I'd consider the efforts to be worth it.
 
 ## GATE 2019 
 
