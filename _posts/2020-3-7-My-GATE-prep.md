@@ -37,7 +37,7 @@ As soon as I started the paper, I realised that I had no proper strategy on how 
 
 As soon as I left the exam hall, I knew that I had screwed up. I thought the paper was difficult, and when I came out and checked Facebook, people were discussing how easy the paper was. And as expected, my result was bad - 
 
-![alt](2019Score.png)
+![alt](/images/2019Score.png)
 
 
 Anyway, I had already started preparing for other exams - namely IIIT Hyderabad and CMI. I was weak at coding and algorithms in general, and this is when I slowly started improving my coding skills. I used to solve problems from GeeksForGeeks and Leetcode and I had solved around 100-120 problems in a month. While this is a pretty small number, it allowed me get comfortable with coding and get better at time complexity analysis. I used the textbook "Algorithms by Dasgupta, Vazirani et al" as my primary resource to study algorithms. Since I was also preparing for CMI, I also used to solve subjective exercise problems, which were mostly proof related problems. So in short, I got better at Algo/DS, relative to where I stood before.
