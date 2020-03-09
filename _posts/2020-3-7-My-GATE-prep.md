@@ -49,3 +49,25 @@ Either way, with these results, I knew that I had the capability to do well in G
 [A small detour - luckily a few companies were still recruiting in my college and due to that, I was able to get one job on-campus and one job off-campus. Why is this relevant? This, along with me clearing IIITH's exam, gave me the confidence that even if I screwed up GATE after a drop, I'd stll be able to find a job or at least get into IIIT Hyderabad, as I had already done it once before. ]
 
 ## GATE 2020
+
+I moved to Saket, Delhi on June 15, 2019 and joined a coaching class. I won't name it, but it should be obvious.
+
+After attending a handful of classes in the beginning, I knew that I had wasted my 70 thousand. I only attended a few classes, which I felt I personally needed. 
+
+There were around 450 students in each batch and we had to stand in line early in the morning, just to get good seats in the class. I literally saw people running to catch seats. Since the classes where hugh, there was no scope of personal attention. On top of that, the pace was too slow (on one instance, the professor taught Fibonacci series for over two hours. I doubt even Fibonacci spent so much time on it.), some concepts were irrelevant (eg: we were taught 8085 instruction set architecture? Why? God knows.) some concepts were wrong (eg: simultaenous memory access was being taught extensively in the classes. Till date, I have not found a *single* textbook which mentions this concept.), the syllabus was delayed by over a month (they finished the syllabus in first week of December). 
+
+### Takeaway 3: Join offline coaching classes only if a) you have a lot of money to waste or b) you are an absolute beginner and have no clue about computer science or c) you have zero self discipline and can only study in a classroom environment. Else, you're better off with online coaching or free resources, both of which are available aplenty.
+
+That being said, the only advantage that the classes offered me was that it helped me find a **peer group**. The PG I lived in was filled with people who were preparing for GATE CS, and all of us had joined a nearby library. We used to go study together, take breaks together and helped each other with studies.I never studied in my room and spent most of my time in the library. My routine used to be something like this:
+
+Wake up at around 8, have breakfast and reach the library by 9. From 9, study till around 1, have lunch and come back to the library by 2:30-3. Study till 5:30-6, take a break and again come back to study till 9. 
+
+[PS: The time you put into studies doesn't matter, but as you can see, on average, it was around 8-9 hours a day, for 7 months.]
+
+I used to not study on Sundays and kept myself busy with things I liked - attending concerts, plays, sightseeing Delhi etc. That one day of the week was something I believe helped me to not burn out and anybody considering a drop should definitely have it. 
+
+Coming back to studies, as I had already done my syllabus once, this time completing my syllabus was aking to just revising it once and doing previous year questions again. I was also solving questions from foreign university assignments and textbooks. For example, here is what my bookmarks section for algorithms looked like.
+
+![alt](/images/BM.png)
+
+[I wouldn't say that I solved all these assignments, but I had seen all of them at least once. ]
