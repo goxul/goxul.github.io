@@ -20,11 +20,11 @@ I decided to appear for GATE somewhere around October 2017, but didn't actually 
 
 The biggest mistake I did was not solving enough problems and giving tests. I was so engrossed in just understanding concepts that I totally ignored problem solving, foolishly believing that I'd be able to do it on the D-Day. I had read some blogs in which the toppers said that they didn't appear for any test series and yet were able to clear the exam, and I thought I'd be like them too. 
 
-#### Takeaway 0: Do not overestimate yourself. Be brutally honest when you are analysing where you stand in your preparation.
+### Takeaway 0: Do not overestimate yourself. Be brutally honest when you are analysing where you stand in your preparation.
 
 The signs were there that I wasn't on the right path - I still remember the first Made Easy topic-wise test I gave in September 2018 and I scored 5.33/25. Instead of working on the mistakes that I made, I simply chalked up that performance to me being sleepy. This was just one of the countless tests that I failed to analyse during my preparation.
 
-#### Takeaway 1: More than the marks of the test, the mistakes of the tests are more important. Analyse the hell out of your tests and make sure you don't commit the same mistake twice.
+### Takeaway 1: More than the marks of the test, the mistakes of the tests are more important. Analyse the hell out of your tests and make sure you don't commit the same mistake twice.
 
 Eventually, I was able to finish my syllabus around last week of December 2018 (and finishing to me meant solving all the questions of GO Book at least once.). I still didn't know where I stood in terms of my preparation because I had barely given any full-length tests. I gave my first full length test in second week of January (it was Bikram Mock 1 on GateOverflow) and I was happy to see that I had scored 69/100. However, the paper was easy (my friends scored 79 and 80 respectively) in the same test. So in a way, scoring well proved detrimental to me as I thought that my prep was in the right direction and gave me a false sense of confidence. I attempted a few more tests and I remember the last test I attempted was of GATEBOOK and I had scored 44 marks in it. I just ignored and tried to focus on whatever I had learnt till now, and kept revising. I had used Anki to make flashcards for the entire syllabus instead of making proper notes and that's what I used to revise. I had zero written notes. 
 
@@ -33,7 +33,7 @@ Eventually, I was able to finish my syllabus around last week of December 2018 (
 As soon as I started the paper, I realised that I had no proper strategy on how to attempt the paper. Why? Because I had hardly given any mock tests to form a strategy. Anyway, I started with the aptitude section and gave it some 15 minutes, and still wasn't able to solve all of it. Then I moved directly to the 2 mark section and started solving stuff, and post that, it's all a blur to me honestly. The only thing that I remember is I was stuck looking at simple, basic questions and thinking to myself "Surely GATE won't ask such simple questions. There _has_ to be a twist in this somwewhere.", which turned to be horribly untrue. 
 
 
-#### Takeaway 2: Go in without ANY presumptions about the paper. Don't expect the 2 mark questions to be difficult, don't expect the 1 mark questions to be easy. Just don't have any expectations - take the questions at face value and solve them.
+### Takeaway 2: Go in without ANY presumptions about the paper. Don't expect the 2 mark questions to be difficult, don't expect the 1 mark questions to be easy. Just don't have any expectations - take the questions at face value and solve them.
 
 As soon as I left the exam hall, I knew that I had screwed up. I thought the paper was difficult, and when I came out and checked Facebook, people were discussing how easy the paper was. And as expected, my result was bad - 
 
