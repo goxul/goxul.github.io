@@ -28,6 +28,8 @@ Point being, these test scores can serve as a reference to people who might want
 
 Here are some pretty graphs too - these are the marks that I scored in full length tests of various test series, arranged in chronological order. I started giving full length tests from December 1 onwards. 
 
+<img src="/images/Bikram.png" width="200" height="200" />
+
 ![alt](/images/Bikram.png)
 
 ![alt](/images/AppliedCourse.jpeg)
