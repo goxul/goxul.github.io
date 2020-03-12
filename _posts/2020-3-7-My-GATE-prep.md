@@ -55,11 +55,23 @@ There were around 450 students in each batch and we had to stand in line early i
 
 ### Takeaway 3: Join offline coaching classes only if a) you have a lot of money to waste or b) you are an absolute beginner and have no clue about computer science or c) you have zero self discipline and can only study in a classroom environment. Else, you're better off with online coaching or free resources, both of which are available aplenty.
 
-That being said, the only advantage that the classes offered me was that it helped me find a **peer group**. The PG I lived in was filled with people who were preparing for GATE CS, and all of us had joined a nearby library. We used to go study together, take breaks together and helped each other with studies.I never studied in my room and spent most of my time in the library. My routine used to be something like this:
+That being said, the only advantage that the classes offered me was that it helped me find a **peer group**. The PG I lived in was filled with people who were preparing for GATE CS, and all of us had joined a nearby library. We used to go study together, take breaks together and helped each other with studies.I never studied in my room and spent most of my time in the library. 
+
+Now, given that I was taking a drop, I had the entire day to my to study. However, I never tried to study more than 10-11 hours a day, because I knew that it wasn't feasible over a 7 month period. I didn't want to start off by studying 16 hours a day and then burn out later. There's a wonderful answer by a professor of Computer Science, who was asked this:
+
+>Q: How can I study hard with full concentration 8-9 hours every day without getting tired or burning out?
+>A: You can’t.
+
+>But if you really insist on trying, here is what I would strongly recommend. Take a 15-minute break after every 30 minutes of studying, take a 30-minute break after every two hours of studying, and take a full one-hour break after four hours. During your breaks, stand up, walk around, go outside, and relax and/or exercise; do not think about work. Eat three leisurely healthy meals every day; do not work while you eat. Stop studying (and I really do mean stop) at least two hours before going to sleep every night, and get at least eight full hours of sleep every night. Take at least one day completely off studying every week. Go easy on the caffeine. Don’t forget to bathe, or do laundry, or shop, or pay your bills, or go to classes, or talk with your friends and family.
+
+>Finally, and most importantly, do not strive for perfection; instead, work for improvement. Give yourself credit for every modicum of progress, every new concept that you understand, every new skill that you master, every new tool that you can use, no matter how small.
+
+
+So as a result of that, my routine used to be something like this:
 
 Wake up at around 8, have breakfast and reach the library by 9. From 9, study till around 1, have lunch and come back to the library by 2:30-3. Study till 5:30-6, take a break and again come back to study till 9. 
 
-[PS: The time you put into studies doesn't matter, but as you can see, on average, it was around 8-9 hours a day, for 7 months.]
+[PS: It's not the hours that you put into your studies that matter but how effective those studies are. Please don't be obsessed with a number - that I need to study 8 hours, or 10 hours, or 12 hours. It. Doesn't. Matter. Always study still you are satisfied with what you have done - it could be 2 hours or 15 hours.]
 
 I used to not study on Sundays and kept myself busy with things I liked - attending concerts, plays, sightseeing Delhi etc. That one day of the week was something I believe helped me to not burn out and anybody considering a drop should definitely have it. 
 
@@ -68,3 +80,28 @@ Coming back to studies, as I had already done my syllabus once, this time comple
 ![alt](/images/BM.png)
 
 [I wouldn't say that I solved all these assignments, but I had seen all of them at least once. ]
+
+### What are the right resources to study from?
+
+I get this question from everyone and honestly, there are no right set of resources for everyone. For example, almost everyone who clears GATE suggests but good lord, that book is huge. I could never get myself to study from that book, so I chose another one. 
+
+
+### Takeaway 4: Find out what resources/books/lecture notes work for you. What worked for me, will not necessarily work for you. Often, I would have to study a concept from multiple resources. There is no single book for ANY subject that will help you clear GATE. 
+
+That being said, here are the resources that I used: [please Google the books on your own, I am too lazy to link them all here.]
+
+0. Data Structures - Frankly, there's no "book" for data structure. As I mentioned above, I did a few Leetcode problems and that's how I got comfortable with coding. For C programming and other data structures, you can find some excellent resources by Prof. Nick Parlante of Stanford [here](http://cslibrary.stanford.edu/). Other than that, the only way to get better at this is to **actually code.** **Code a lot.**
+
+1. Algorithms: I used a book called  "**Algorithms by Dasgupta, Vazirani and Papadimitriou.**" This excellent course on Algorithms [here](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ1YxqcmBjCdK9oX1m-JDEx2) follows the same book.
+
+2. Databases - I studied normalisation from Knowledge Gate videos on YouTube, and B/B+ trees from RBR (a friend in my library had subscribed to it) and SQL from Made Easy notes (which are available online). Rest all the topics - **Database Systems by Korth, Sudarshan et al.** Use the slides available to revise later. 
+
+3. Computer Networks - I studied the entirety of it from RBR. But, doing only those videos aren't enough, in my opinion. I also went through textbooks for all the topics again. There is not a single textbook that worked for me - I went through **Tanenbaum, Kurose & Ross and Peterson & Davie**. For example, congestion control and flow control is explained very well in Kurose & Ross. I went through all the relevant problems from Tanenbaum and some chapters from Peterson & Davie. In order to ensure that I didn't miss anything, I also used to go through Wikipedia pages of concepts like TCP/IP, application layer protocols.
+
+4. Operating Systems - I used a textbook called **Operating Systems: Three Easy Pieces**. There's an excellent set of videos from Prof. Mythili from IITB, which follows the same textbook. That is present [here](https://www.cse.iitb.ac.in/~mythili/os/). On top of this, there's an excellent Operating Systems NPTEL course by Professor Chester Rebeiro of IIT Madras. If you use that course, your synchronisation concepts will be crystal clear. 
+
+5. Compiler Design - I used the free videos of RBR available to study parsing. Another important resource was CS143 by Stanford, which can be found [here](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/). If you study the handouts properly, there'll be no need to study any textbook, in my opinion. For syntax directed translation, I refered to some videos from the NPTEL course on Compilers by Prof. Sanjeev Agarwala present [here](https://www.youtube.com/playlist?list=PLbMVogVj5nJTmKzaSlCpGgi7qxgcRRs8h). You can also refer to slides by Prof. Rupesh Nasre from IIT Madras, which are present [here](https://www.cse.iitm.ac.in/~rupesh/teaching/compiler/aug15/schedule/).
+
+6. Theory of Computation - For problem solving of DFA/NFA/PDA, I used the free videos of RBR avaiable online. To supplement that with actual, formal proof-style TOC, I followed Prof. Raghunath Tiwari's course on TOC, which can be found [here](https://www.youtube.com/playlist?list=PL3-wYxbt4yCgBHUpwXDTLos3JStccGIax). I also solved a few problems from **Peter Linz and Michael Sipser**, but I didn't peruse them thoroughly. 
+
+7. 
