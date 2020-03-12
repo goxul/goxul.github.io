@@ -111,6 +111,6 @@ That being said, here are the resources that I used: [please Google the books on
 
  9. Mathematics - For discrete mathematics, GATEBOOK has an excellent set of free lectures which I followed. Along with that, I religiously solved **Kenneth Rosen** - solving all the relevant problems from Sets, Functions, Graph Theory, Trees and Combinatorics. For relations, I used free videos of Knowledge Gate. [I left group theory and all that GUB, LUB shebang, because it seemed annoying.] For probability, my primary sources was notes by Prof. Janko Gravner, which is present [here](https://www.stat.berkeley.edu/~aldous/134/gravner.pdf). I also used the YouTube channel JBStatistics to study probability distributions and random variables. 
 
-There it is - I have mentioned all the resources that I used. If it seems overwhelming and you want a neat 10 line list of resources, I am sorry about that. I tried to be as honest as possible about whatever I used, so that people don't assume that studying from a single book will help you clear GATE. 
+There it is - I have mentioned all the resources that I used. If it seems overwhelming and you want a neat 10 line list of resources, I am sorry about that. I tried to be as honest as possible about whatever I used, so that people don't assume that studying from a single book or solving only coaching material (I never touched these, despite having them) will help you clear GATE. 
 
 
