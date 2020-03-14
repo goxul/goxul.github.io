@@ -1,10 +1,39 @@
 ---
 layout: post
-title: My GATE Preparation Story - Pt 2
+title: Resources That I Used For GATE
 comments: true
 ---
 
-Continuing from Part 1,
+## What are the right resources to study from?
+
+I get this question from everyone and honestly, there are no right set of resources for everyone. For example, almost everyone who clears GATE suggests Cormen for algorithms but good lord, that book is huge. I could never get myself to study from that book, so I chose another one. My point being -
+
+### Find out what resources/books/lecture notes work for you. What worked for me, will not necessarily work for you. Often, I would have to study a concept from multiple resources. There is no single book for ANY subject that will help you clear GATE. 
+
+That being said, here are the resources that I used: [please Google the books on your own, I am too lazy to link them all here.]
+
+0. Data Structures - Frankly, there's no "book" for data structure. As I mentioned above, I did a few Leetcode problems and that's how I got comfortable with coding. For C programming and other data structures, you can find some excellent resources by Prof. Nick Parlante of Stanford [here](http://cslibrary.stanford.edu/). Other than that, the only way to get better at this is to **actually code.** **Code a lot.**
+
+1. Algorithms - I used a book called  "**Algorithms by Dasgupta, Vazirani and Papadimitriou.**" This excellent course on Algorithms [here](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ1YxqcmBjCdK9oX1m-JDEx2) follows the same book.
+
+2. Databases - I studied normalisation from Knowledge Gate videos on YouTube, and B/B+ trees from RBR (a friend in my library had subscribed to it) and SQL from Made Easy notes (which are available online). Rest all the topics - **Database Systems by Korth, Sudarshan et al.** Use the slides available to revise later. 
+
+3. Computer Networks - I studied the entirety of it from RBR. But, doing only those videos aren't enough, in my opinion. I also went through textbooks for all the topics again. There is not a single textbook that worked for me - I went through **Tanenbaum, Kurose & Ross and Peterson & Davie**. For example, congestion control and flow control is explained very well in Kurose & Ross. I went through all the relevant problems from Tanenbaum and some chapters from Peterson & Davie. In order to ensure that I didn't miss anything, I also used to go through Wikipedia pages of concepts like TCP/IP, application layer protocols.
+
+4. Operating Systems - I used a textbook called **Operating Systems: Three Easy Pieces**. There's an excellent set of videos from Prof. Mythili from IITB, which follows the same textbook. That is present [here](https://www.cse.iitb.ac.in/~mythili/os/). On top of this, there's an excellent Operating Systems NPTEL course by Professor Chester Rebeiro of IIT Madras. If you use that course, your synchronisation concepts will be crystal clear. 
+
+5. Compiler Design - I used the free videos of RBR available to study parsing. Another important resource was CS143 by Stanford, which can be found [here](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/). If you study the handouts properly, there'll be no need to study any textbook, in my opinion. For syntax directed translation, I refered to some videos from the NPTEL course on Compilers by Prof. Sanjeev Agarwala present [here](https://www.youtube.com/playlist?list=PLbMVogVj5nJTmKzaSlCpGgi7qxgcRRs8h). You can also refer to slides by Prof. Rupesh Nasre from IIT Madras, which are present [here](https://www.cse.iitm.ac.in/~rupesh/teaching/compiler/aug15/schedule/).
+
+6. Theory of Computation - For problem solving of DFA/NFA/PDA, I used the free videos of RBR avaiable online. To supplement that with actual, formal proof-style TOC, I followed Prof. Raghunath Tiwari's course on TOC, which can be found [here](https://www.youtube.com/playlist?list=PL3-wYxbt4yCgBHUpwXDTLos3JStccGIax). I also solved a few problems from **Peter Linz and Michael Sipser**, but I didn't peruse them thoroughly. 
+
+7. Digital Logic - I didn't use any textbook for this subject as it wasn't too complicated. Most part of it, I did from Neso Academy videos online, freely avaiable online on YouTube. Parts which I had doubts in (for eg: adders) I did from GATEBOOK videos available online. The sequential circuits and number system part, I did from RBR. Number system has especially been taught very well in RBR lectures. But if you can't afford or can't find someone who has it, Neso Academy is also more than enough. They've explained it very well, and for free.
+
+
+8. Computer Organisation and Architecture - This is probably the most annoying subject for all GATE aspirants. Fortunately, I liked this subject for some reason, and was decent at it (at least for GATE purposes.). The best resource I would suggest is **Hennessey & Patterson**. COA is a subject which CANNOT be done well without going through standard textbooks, in my opinion. No amount of online videos, notes, blogs are a substitute for standard textbooks, especially in COA. Along with it, [here's](https://www.youtube.com/playlist?list=PL8KfHF3inuyVu4u3A_MZFU2UFDfDB1KwV&advanced_settings=1&disable_polymer=1) a playlist I made for lectures from various online sources - they primarily contain basics (till performance equation), pipelining and cache Memory. For other topics like Amdahl's law, DMA etc, you can refer to [this](https://nptel.ac.in/courses/106/105/106105163/) excellent NPTEL course. There are a few other NPTEL courses which might be relevant - I will link them [here](https://www.youtube.com/playlist?list=PLdS3u59E0DKjUKPcnCYxVxssEkX2zo-kV) and [here](https://www.youtube.com/playlist?list=PL2F82ECDF8BB71B0C).
+
+9. Mathematics - For discrete mathematics, GATEBOOK has an excellent set of free lectures which I followed. Along with that, I religiously solved **Kenneth Rosen** - solving all the relevant problems from Sets, Functions, Graph Theory, Trees and Combinatorics. For relations, I used free videos of Knowledge Gate. [I left group theory and all that GUB, LUB shebang, because it seemed annoying.] For probability, my primary sources was notes by Prof. Janko Gravner, which is present [here](https://www.stat.berkeley.edu/~aldous/134/gravner.pdf). I also used the YouTube channel JBStatistics to study probability distributions and random variables. 
+
+There it is - I have mentioned all the resources that I used. If it seems overwhelming and you want a neat 10 line list of resources, I am sorry about that. I tried to be as honest as possible about whatever I used, so that people don't assume that studying from a single book or solving only coaching material (I never touched these, despite having them) will help you clear GATE. 
 
 ## What test series did I use? 
 
@@ -42,6 +71,8 @@ Here are some pretty graphs too - these are the marks that I scored in full leng
 ## Other than test series, where did I solve problems from?
 
 As mentioned already, I used to solve problems from assignments, textbooks and exams etc.
+
+### Trust GateOverflow - especially with previous year questions. Almost all other sources have errors in them. 
 
 On top of this, one excellent way to improve your concepts is to **use GateOverflow website efficiently.** As of now, GateOverflow has over 50,000 questions asked by users, across all subjects. Each subject has at least 2000 questions. It also has a feature where you can search questions by Tags and I made use of that extensively.
 
