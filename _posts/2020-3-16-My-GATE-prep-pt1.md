@@ -32,7 +32,7 @@ Eventually, I was able to finish my syllabus around last week of December 2018 (
 As soon as I started the paper, I realised that I had no proper strategy on how to attempt the paper. Why? Because I had hardly given any mock tests to form a strategy. Anyway, I started with the aptitude section and gave it some 15 minutes, and still wasn't able to solve all of it. Then I moved directly to the 2 mark section and started solving stuff, and post that, it's all a blur to me honestly. The only thing that I remember is I was stuck looking at simple, basic questions and thinking to myself "Surely GATE won't ask such simple questions. There _has_ to be a twist in this somwewhere.", which turned to be horribly untrue. 
 
 
-### Takeaway 2: Go in without ANY presumptions about the paper. Don't expect the 2 mark questions to be difficult, don't expect the 1 mark questions to be easy. Just don't have any expectations - take the questions at face value and solve them.
+### Takeaway 2: Go in without ANY presumptions about the paper. Don't expect the 2 mark questions to be difficult, don't expect the 1 mark questions to be easy. Just don't have any expectations - take the questions at face value and solve them. And for the love of God, don't ignore aptitude at any cost. It can make or break your exam.
 
 As soon as I left the exam hall, I knew that I had screwed up. I thought the paper was difficult, and when I came out and checked Facebook, people were discussing how easy the paper was. And as expected, my result was bad -  I had scored 44 marks, with rank of 4434.
 
@@ -81,6 +81,68 @@ Coming back to studies, as I had already done my syllabus once, this time comple
 
 [I wouldn't say that I solved all these assignments, but I had seen all of them at least once. ]
 
+So I kept chipping at the proverbial mountain and before I knew, it was already November. I finished giving all my topicwise and subjectwise tests by the end of November and I was doing okayish at them. [I've shared my marks from all tests in the other blog post, you can find it there.]
 
+I gave my first full length test on 1st of December. It was a TestBook test and I scored 58.7 marks. I was disheartended, so I gave another one the same day. Again from TestBook and I scored 51.7 marks.
 
+I was at a complete loss of words. 
 
+I had prepared well, I was putting in the hours and yet, I was scoring terrible marks. 
+
+I say terrible because the paper was easy (if I remember correctly, the topper had 88 marks.). 
+
+I went back to my room that day and confessed to my friends that maybe I couldn't do it and that probably I wasn't made for GATE. But somehow, they gave me the courage to try again harder tomorrow and hence I say, 
+
+### Takeaway 4: It's really really important to have a good support network of friends and family who'll help you get through the difficult times. It would have been impossible for me without the help of my friends. They were the ones who gave me hope when things were looking bleak, as they often did. If you can't find any such people, feel free to contact me as I know how much it sucks at that time, and I'll try to help you in any way possible.
+
+I woke up next morning, revised a bit and gave my first Made Easy test. I scored 69.34. Not bad, I guess. From there, I gave almost a test daily for the next 25 odd days and I mostly stayed in the 60s. Not once did I cross 70 in any Made Easy test and my ranks mostly used to be under in double digits. 
+
+My scores used to fluctuate a lot and at times, my frustration, stress, anxiety and everything else used to be so bad that I'd randomly break into tears, for no apparent reason at all. Heck, I didn't know why it was happening and I didn't talk about it to anybody either. I just assumed it was due to stress and ignored it, hoping that it would go away after the exam. My point being - 
+
+### Takeaway 5: My last two months were awful. The stress was horrible and at times, I wished that I hadn't prepared for GATE at all and just taken up a random shitty job. This was further compounded as I was preparing for it a second time and I could see first timers score much better than me. And most likely, they'll not be easy for anybody who's reading this. It will suck, but the good part is - you will come out of it. You're not alone and EVERYONE goes through this. There's a wonderful quote which summarises this feeling the best:
+
+### “And once the storm is over, you won’t remember how you made it through, how you managed to survive. You won’t even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about.”
+
+Then, January 11 was the date of my first Made Easy CBT. In my mind, for some reason, I had convinced myself that this would be accurate reflection of what GATE would be like (spoiler alert: it isn't).
+
+I went and gave my test and again, it was dogshit. I made countless silly mistakes and I was again dejected that the same would happen in GATE as well. When my results came, this was it:
+
+![alt](/images/CBT1.png)
+
+You can see the number of incorrect attempts. Half of them were silly mistakes, which I was able to solve after the exam. I had given a lot of tests up to that point and yet, my exam temperament sucked. And there's no magic wand to fix it - I just realised that you have to practice more and more tests.
+
+[On a side note - my friend scored more marks than me in Made Easy's CBT and got a worse rank than me - go figure how.]
+
+By the point, I was kinda used to the disappointment of not doing well in tests, so I just rolled on with it.
+
+12th January was ISRO's exam and again, I made loads of silly mistakes. The results haven't been declared yet, but there's a good chance I haven't qualified for the interview.
+
+But amidst all these disappointments, I did one important thing - **I noted down all the mistakes that I had made, and was very careful to not avoid the same mistakes again. It didn't matter to me if I made new mistakes, but I wanted to be 100 % sure that I wasn't repeating the same mistakes.** I used to frequently revise the mistake book again and again.
+
+CBT 2 wasn't any stellar either, and this is the result that I got:
+
+![alt](/images/CBT2.png)
+
+I didn't take my results any more seriously and just kept giving more and more tests. But I never forgot to analyse it. I'll repeat it again - ANALYSIS IS VERY IMPORTANT.
+
+I gave Ace Academy's CBT and it was shit easy - I scored 76.67 marks and a rank of 24 out of 500 odd people. But the questions were so bad, I wished I had not given it at all as I had to travel loads for it.
+
+Then, 22nd January was Applied Course's AITS 4 and I scored an amazing 48 marks in that, out of 100. (although, the paper was quite difficult and I got a rank of 61 out of 1200 odd people.)
+
+After that test, I bid goodbye to Delhi and returned back home. Here, my intensity reduced and I mostly stuck to revision of my notes and solving previous year questions.
+
+I gave one final test on 2nd February, of Applied Course and scored 76.67, with an AIR of 22. I was satisfied with it, and gave no tests after that.
+
+## The D-Day - encore
+
+I sat down at my PC 40 odd minutes before the exam and I meditated for a while. Around 20 minutes or so. My nerves were considerably lesser this time, because I had given around 30 odd full length tests. I had a fixed pattern of attempting questions too - I did the aptitude section first and then I attempted the question paper in serial order and then I'd come back in reverse order to check the question apper. You have to make your own strategy, and find out what works for you. 
+
+The paper went according to my plan and I was able to finish it with around 30 minutes remaining. Instead of solving new questions and I was able to find a mistake of 2 marks. Anyway, I had attempted around 52 questions (this was how I usually did, as I aimed for more accuracy.)
+
+Finally, the results arrived today and this was it:
+
+![alt](/images/Score.png)
+
+I hope this extremely long post was worth it and was useful. Read the second post too, if you want to know the resources that I had used. 
+
+If you have any other questions, feel free to mail it to me. 
