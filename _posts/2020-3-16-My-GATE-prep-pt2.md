@@ -10,7 +10,7 @@ I get this question from everyone and honestly, there are no right set of resour
 
 ### Find out what resources/books/lecture notes work for you. What worked for me, will not necessarily work for you. Often, I would have to study a concept from multiple resources. There is no single book for ANY subject that will help you clear GATE. 
 
-That being said, here are the resources that I used: [please Google the books on your own, I am too lazy to link them all here.]
+That being said, here are the resources that I used: [please Google the books on your own, I can't link them all here.]
 
 0. Data Structures - Frankly, there's no "book" for data structure. As I mentioned above, I did Leetcode problems and that's how I got comfortable with coding. For C programming and other data structures, you can find some excellent resources by Prof. Nick Parlante of Stanford [here](http://cslibrary.stanford.edu/). Other than that, the only way to get better at this is to **actually code.** **Code a lot.**
 
