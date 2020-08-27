@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I'm a computer science undergrad and I graduated from DJ Sanghvi College of Engineering in 2019. 
+I'm a graduate student at Indian Institue of Science (IISc), Bengaluru.
+
+I graduated from DJ Sanghvi College of Engineering in 2019 with a degree in Computer Engineering.
 
 ### More Information
 
