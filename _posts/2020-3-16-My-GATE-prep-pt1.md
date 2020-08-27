@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My GATE Preparation Story - Pt 1
+title: My GATE Preparation Story
 ---
 
 If this is too long to read, here's the summary:
