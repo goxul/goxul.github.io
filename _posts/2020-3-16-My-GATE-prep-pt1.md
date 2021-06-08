@@ -139,9 +139,7 @@ I sat down at my PC 40 odd minutes before the exam and I meditated for a while. 
 
 The paper went according to my plan and I was able to finish it with around 30 minutes remaining. Instead of solving new questions and I was able to find a mistake of 2 marks. Anyway, I had attempted around 52 questions (this was how I usually did, as I aimed for more accuracy.)
 
-Finally, the results arrived today and this was it:
-
-![alt](/images/Score.png)
+Finally, the results arrived today and I secore AIR 101, out of ~98k students.
 
 I hope this extremely long post was worth it and was useful. Read the second post too, if you want to know the resources that I had used. 
 
